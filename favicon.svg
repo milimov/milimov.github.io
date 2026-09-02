@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 512 512"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="670" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Manrope">
+		<font-face-src>
+			<font-face-name name="Manrope Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="." horiz-adv-x="303" d="M90.0004 0l0 123.5 123.5 0 0 -123.5 -123.5 0z"/>
+   <glyph unicode="A" horiz-adv-x="670" d="M20.0002 0l226.999 719.999 176.5 0 226.999 -719.999 -124 0 -206 645.999 27.0004 0 -203.5 -645.999 -124 0zm126.499 156l0 112.5 378 0 0 -112.5 -378 0z"/>
+   <glyph unicode="M" horiz-adv-x="854" d="M70.0002 0l0 719.999 108.5 0 249 -510 249 510 108.5 0 0 -719.999 -112.5 0 0 461.499 -221 -461.499 -48.0001 0 -220.499 461.499 0 -461.499 -113 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Manrope";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:black}
+    .fil2 {fill:#008B92}
+    .fil0 {fill:white}
+    .fnt0 {font-weight:bold;font-size:301.476px;font-family:'Manrope'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="512" height="512"/>
+  <text x="14.97" y="364.531"  class="fil1 fnt0">AM</text>
+  <text x="426.635" y="364.531"  class="fil2 fnt0">.</text>
+ </g>
+</svg>
